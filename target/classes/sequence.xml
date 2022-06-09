@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns="http://f150.oschina.io/raptor-gid/gid"
+           xsi:schemaLocation="http://f150.oschina.io/raptor-gid/gid
+          http://f150.oschina.io/raptor-gid/gid ">
+    <breadcrumb name="USR_ID" incr="1" start="100000" cache="10"/>
+</sequences>
